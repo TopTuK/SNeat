@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\TopTuK\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\TopTuK\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_SNeat.155567916.00" t="ExcludeRecursive" />
+    <e p="C:\Work\SNeat" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SNeat" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CnnMnistModel.cs" t="Include" />
+        <e p="MnistDataset.cs" t="Include" />
+        <e p="MnistModel.cs" t="Include" />
+        <e p="Model" t="Include">
+          <e p="_GenomeInterfaces.cs" t="Include" />
+          <e p="_NetworkInterfaces.cs" t="Include" />
+          <e p="cnn" t="Include">
+            <e p="CnnLayer.cs" t="Include" />
+            <e p="CnnLayerBuilder.cs" t="Include" />
+            <e p="CnnNetwork.cs" t="Include" />
+            <e p="ICnnInterfaces.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="GenomeUtils.cs" t="Include" />
+          <e p="InnovationTracker.cs" t="Include" />
+          <e p="MutationParameters.cs" t="Include" />
+          <e p="NeatGenome.cs" t="Include" />
+          <e p="NeatGenomeUtils.cs" t="Include" />
+          <e p="NeatNetwork.cs" t="Include" />
+          <e p="NetworkBuilder.cs" t="Include" />
+          <e p="NetworkParameters.cs" t="Include" />
+          <e p="PopulationParameters.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SNeat.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SNeat.csproj" t="IncludeRecursive" />
+        <e p="t10k-images.idx3-ubyte" t="Include" />
+        <e p="t10k-labels.idx1-ubyte" t="Include" />
+        <e p="train-images.idx3-ubyte" t="Include" />
+        <e p="train-labels.idx1-ubyte" t="Include" />
+        <e p="XorModel.cs" t="Include" />
+      </e>
+      <e p="SNeat.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
